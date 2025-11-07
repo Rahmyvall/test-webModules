@@ -15,6 +15,7 @@
 <a><img src="public/ssfoto/5.jpg" alt="public"></a>
 <a><img src="public/ssfoto/6.jpg" alt="public"></a>
 <a><img src="public/ssfoto/7.jpg" alt="public"></a>
+<a><img src="public/ssfoto/8.jpg" alt="public"></a>
 
 </p>
 

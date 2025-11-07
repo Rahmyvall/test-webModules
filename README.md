@@ -9,12 +9,12 @@
 
 ## Fontend & Backend
 
-<a><img src="{{ asset('public/ssfoto/2.jpg') }}" alt="public"></a>
-<a><img src="{{ asset('public/ssfoto/3.jpg') }}" alt="public"></a>
-<a><img src="{{ asset('public/ssfoto/4.jpg') }}" alt="public"></a>
-<a><img src="{{ asset('public/ssfoto/5.jpg') }}" alt="public"></a>
-<a><img src="{{ asset('public/ssfoto/6.jpg') }}" alt="public"></a>
-<a><img src="{{ asset('public/ssfoto/7.jpg') }}" alt="public"></a>
+<a><img src="public/ssfoto/2.jpg" alt="public"></a>
+<a><img src="public/ssfoto/3.jpg" alt="public"></a>
+<a><img src="public/ssfoto/4.jpg" alt="public"></a>
+<a><img src="public/ssfoto/5.jpg" alt="public"></a>
+<a><img src="public/ssfoto/6.jpg" alt="public"></a>
+<a><img src="public/ssfoto/7.jpg" alt="public"></a>
 
 </p>
 
